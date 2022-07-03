@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML - Personal Site", "HTML - Personal Site", "{DFCDC145-9331-46F6-9F31-9BD22BBE14F4}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		hobbies.html = hobbies.html
+		contact.html = contact.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B27CAD75-E67A-4306-90A6-D534D8FE3527}
+	EndGlobalSection
+EndGlobal
